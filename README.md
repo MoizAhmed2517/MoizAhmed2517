@@ -8,19 +8,19 @@
   <h2>Hey <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="50" />, I am Moiz Ahmed</h2>
 </div>
 
-## About Me:
+## 👋 About Me:
 An artificial intelligence enthusiast with experience in developing AI-based products utilizing statistical, machine learning and deep learning techniques. Has successfully designed and developed machine learning applications across various business domains, encompassing end-to-end development from front-end design to backend deployment. Alongside technical expertise, possesses strong capabilities in research and development, formulating product features, and fostering collaborative partnerships with cross-functional teams to ensure product growth.
 
-## Goal:
+## ⭐️Goal:
 - 👀 Create AI products to elevate humanity!
 - ✨ Aspiring deep learning & machine learning expert
 - 🌱 Tensorflow certified developer soon!
 
-## Status:
+## 🚀 Status:
 - 🎰 Product Developer [Enerlytics Lab](https://www.linkedin.com/company/enerlyticslab/mycompany/)
 - 🚀 Working on an AI product to help industries in tracking and reducing their carbon consumption.
 
-## Socials 📫
+## 🌐 Socials
 <div id="badges" margin="10px">
     <a href="https://www.linkedin.com/in/moizahmed25/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -39,7 +39,7 @@ An artificial intelligence enthusiast with experience in developing AI-based pro
     </a>
 </div>
 
-## Tech Stack
+## 💻 Tech Stack
 <div id="badgessocial" margin="10px">
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white">
@@ -72,10 +72,15 @@ An artificial intelligence enthusiast with experience in developing AI-based pro
     <img alt="Static Badge" src="https://img.shields.io/badge/jira-%230052cc?style=flat&logo=jira&logoColor=white">
 </div>
 
+##  :fire: My Stats
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoizAhmed2517&theme=dark&background=000000)](https://git.io/streak-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoizAhmed2517&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🏆: Github Trophies
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=MoizAhmed2517&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 - 👋 Hi, I’m @MoizAhmed2517
 - 👀 I’m interested in making ML/AI/DS Apps
@@ -83,7 +88,7 @@ An artificial intelligence enthusiast with experience in developing AI-based pro
 - 💞️ I’m looking to collaborate on AI and love to discuss it.
 - 📫 How to reach me Github: https://github.com/MoizAhmed2517/MoizAhmed2517
 
-##  Github Stats:
+
 
 --->
 
