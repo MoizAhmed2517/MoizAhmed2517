@@ -17,7 +17,7 @@ An artificial intelligence enthusiast with experience in developing AI-based pro
 - 🌱 Tensorflow certified developer soon!
 
 ## 🚀 Status:
-- 🎰 Product Developer [Enerlytics Lab](https://www.linkedin.com/company/enerlyticslab/mycompany/)
+- 🎰 Product Developer @ [Enerlytics Lab](https://www.linkedin.com/company/enerlyticslab/mycompany/)
 - 🚀 Working on an AI product to help industries in tracking and reducing their carbon consumption.
 
 ## 🌐 Socials
