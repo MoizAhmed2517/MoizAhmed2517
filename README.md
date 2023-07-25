@@ -6,11 +6,19 @@
 
 <div id="header2" align="center">
   <h2>Hey <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="50" />, I am Moiz Ahmed</h2>
-  <h4>(Product Developer @ Enerlytics lab)</h4>
 </div>
 
 ## About Me:
 An artificial intelligence enthusiast with experience in developing AI-based products utilizing statistical, machine learning and deep learning techniques. Has successfully designed and developed machine learning applications across various business domains, encompassing end-to-end development from front-end design to backend deployment. Alongside technical expertise, possesses strong capabilities in research and development, formulating product features, and fostering collaborative partnerships with cross-functional teams to ensure product growth.
+
+## Goal:
+- 👀 Create AI products to elevate humanity!
+- ✨ Aspiring deep learning & machine learning expert
+- 🌱 Tensorflow certified developer soon!
+
+## Status:
+- 🎰 Product Developer [Enerlytics Lab](https://www.linkedin.com/company/enerlyticslab/mycompany/)
+- 🚀 Working on an AI product to help industries in tracking and reducing their carbon consumption.
 
 ## Socials 📫
 <div id="badges" margin="10px">
@@ -29,6 +37,39 @@ An artificial intelligence enthusiast with experience in developing AI-based pro
     <a href="https://www.fiverr.com/moizahmed713">
       <img alt="Static Badge" src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmoizahmed25%2F">
     </a>
+</div>
+
+## Tech Stack
+<div id="badgessocial" margin="10px">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-black?style=flat&logo=c%2B%2B&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GCP-red?style=flat&logo=googlecloud&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-darkblue?style=flat&logo=mysql&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PostGreSQL-blue?style=flat&logo=postgresql&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tensorflow-orange?style=flat&logo=tensorflow&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Scikit-learn-darkorange?style=flat&logo=scikitlearn&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/react-lightblue?style=flat&logo=react&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/pandas-purple?style=flat&logo=pandas&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/mlflow-blue?style=flat&logo=mlflow&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/dvc-blue?style=flat&logo=dvc&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/scipy-darkblue?style=flat&logo=scipy&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/tableau-orange?style=flat&logo=tableau&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/docker-blue?style=flat&logo=docker&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/opencv-red?style=flat&logo=opencv&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/figma-pink?style=flat&logo=figma&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/html-orange?style=flat&logo=html5&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/css-yellow?style=flat&logo=css3&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/googlecolab-orange?style=flat&logo=googlecolab&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/githubactions-black?style=flat&logo=githubactions&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/fastapi-green?style=flat&logo=fastapi&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/fastapi-%2325c2a0?style=flat&logo=fastapi&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/reactrouter-%23AEC317?style=flat&logo=reactrouter&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/netlify-%2304a29f?style=flat&logo=netlify&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/vercel-%23000?style=flat&logo=vercel&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MaterialUI-%23007fff?style=flat&logo=mui&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/jira-%230052cc?style=flat&logo=jira&logoColor=white">
 </div>
 
 
