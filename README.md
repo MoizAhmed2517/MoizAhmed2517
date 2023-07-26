@@ -78,7 +78,7 @@ An artificial intelligence enthusiast with experience in developing AI-based pro
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoizAhmed2517&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏆: Github Trophies
+## 🏆 Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MoizAhmed2517&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
