@@ -72,7 +72,7 @@ An artificial intelligence enthusiast with experience in developing AI-based pro
     <img alt="Static Badge" src="https://img.shields.io/badge/jira-%230052cc?style=flat&logo=jira&logoColor=white">
 </div>
 
-##  :fire My Stats
+##  🔥 My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoizAhmed2517&theme=dark&background=000000)](https://git.io/streak-stats)
 <br />
