@@ -12,12 +12,11 @@
 An artificial intelligence enthusiast with experience in developing AI-based products utilizing statistical, machine learning and deep learning techniques. Has successfully designed and developed machine learning applications across various business domains, encompassing end-to-end development from front-end design to backend deployment. Alongside technical expertise, possesses strong capabilities in research and development, formulating product features, and fostering collaborative partnerships with cross-functional teams to ensure product growth.
 
 ## ⭐️Goal
-- 👀 Create AI products to elevate humanity!
+- 👀 Create AI agent and workflows to elevate humanity!
 - ✨ Aspiring deep learning & machine learning expert
-- 🌱 Tensorflow certified developer soon!
 
 ## 🚀 Status
-- 🎰 Product Developer @ [Enerlytics Lab](https://www.linkedin.com/company/enerlyticslab/mycompany/)
+- 🎰 Lead AI Engineer @ [Ecoedge AI](https://www.linkedin.com/company/ecoedge-ai/)
 - 🚀 Working on an AI product to help industries in tracking and reducing their carbon consumption.
 
 ## 🌐 Socials
