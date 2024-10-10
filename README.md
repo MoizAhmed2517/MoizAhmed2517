@@ -5,7 +5,7 @@
 </div>
 
 <div id="header2" align="center">
-  <h2>Hey <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="50" />, I am Moiz Ahmed</h2>
+  <h2>Hey <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="50" />, I am Moiz Ahmed an AI engineer</h2>
 </div>
 
 ## 👋 About Me
