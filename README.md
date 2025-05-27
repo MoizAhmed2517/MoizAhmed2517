@@ -15,10 +15,6 @@ An artificial intelligence enthusiast with experience in developing AI-based pro
 - 👀 Create AI agent and workflows to elevate humanity!
 - ✨ Aspiring deep learning & machine learning expert
 
-## 🚀 Status
-- 🎰 Lead AI Engineer @ [Ecoedge AI](https://www.linkedin.com/company/ecoedge-ai/)
-- 🚀 Working on an AI product to help industries in tracking and reducing their carbon consumption.
-
 ## 🌐 Socials
 <div id="badges" margin="10px">
     <a href="https://www.linkedin.com/in/moizahmed25/">
@@ -89,9 +85,4 @@ An artificial intelligence enthusiast with experience in developing AI-based pro
 
 
 
---->
-
-<!---
-MoizAhmed2517/MoizAhmed2517 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
