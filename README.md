@@ -15,11 +15,10 @@ An artificial intelligence enthusiast with experience in developing AI-based pro
 - 👀 Create AI agent and workflows to elevate humanity!
 - ✨ Aspiring deep learning & machine learning expert
 
-## 🌐 Socials
-<div id="badges" margin="10px">
-<!--     <a href="https://www.linkedin.com/in/moizahmed25/">
+<!-- <div id="badges" margin="10px">
+     <a href="https://www.linkedin.com/in/moizahmed25/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a> -->
+    </a> 
     <a href="https://topmate.io/moiz_ahmed">
       <img alt="Static Badge" src="https://img.shields.io/badge/Topmate-red?style=for-the-badge&logo=topcoder&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmoizahmed25%2F">
     </a>
@@ -32,7 +31,7 @@ An artificial intelligence enthusiast with experience in developing AI-based pro
     <a href="https://www.fiverr.com/moizahmed713">
       <img alt="Static Badge" src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmoizahmed25%2F">
     </a>
-</div>
+</div> -->
 
 ## 💻 Tech Stack
 <div id="badgessocial" margin="10px">
