@@ -17,9 +17,9 @@ An artificial intelligence enthusiast with experience in developing AI-based pro
 
 ## 🌐 Socials
 <div id="badges" margin="10px">
-    <a href="https://www.linkedin.com/in/moizahmed25/">
+<!--     <a href="https://www.linkedin.com/in/moizahmed25/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    </a> -->
     <a href="https://topmate.io/moiz_ahmed">
       <img alt="Static Badge" src="https://img.shields.io/badge/Topmate-red?style=for-the-badge&logo=topcoder&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmoizahmed25%2F">
     </a>
